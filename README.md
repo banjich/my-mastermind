@@ -14,4 +14,8 @@ Built With: HTML CSS JS React JS
 
 To get a local copy up and running fallow these simple steps:
 
-Clone the repository by entering git clone https://github.com/banjich/mastermind.git in your git bash, Type cd mastermind, Type npm start
+1. Clone the repository by entering git clone https://github.com/banjich/my-mastermind.git in your git bash
+2. Type cd mastermind
+3. Type npm install
+4. Type npm start
+
